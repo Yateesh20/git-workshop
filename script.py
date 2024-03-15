@@ -1,5 +1,10 @@
 from simple_functions import double_number, square_number, print_message
 
+"""
+double_number is twice the value of the given number
+squre_number is mutiple of given number with given number itself
+
+"""
 a = 5
 
 
